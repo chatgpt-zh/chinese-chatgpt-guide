@@ -22,11 +22,12 @@
 为了让您快速上手，以下是我们精选的国内镜像站点：
 
 | 网站名称               | 支持功能                                 | 类型      | 访问方式                                                                                                      |
-|------------------------|------------------------------------------|---------|----------------------------------------------------------------------------------------------------------------|
-| 一下AI                 | GPT-4.0、GPT o1、AI绘画                   | 网站     | [www.yixiaai.com](http://www.yixiaai.com)                                                                     |
-| Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站     | [chat.lify.vip](http://chat.lify.vip)                                                                          |
-| ChatGPT For Desktop    | GPT 全系列模型                              | 电脑客户端 | [ChatGPT For Desktop 下载链接](http://chatknow.lify.vip/software/AI智慧岛_1.0.0_x64_zh-CN.msi)                  |
-| ChatGPT for Edge     | Edge 浏览器插件，全系列模型                | Edge浏览器插件     | [Microsoft Edge 插件下载](https://microsoftedge.microsoft.com/addons/detail/chatgpt中文版（中文界面、对话、写作、绘画）/lmlenkgcieicbnpobkhmpcgmamahahil) |
+|------------------------|------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------|
+| 一下AI                 | GPT-4.0、GPT o1、AI绘画                   | 网站      | [www.yixiaai.com](http://www.yixiaai.com)                                                                     |
+| Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站      | [chat.lify.vip](http://chat.lify.vip)                                                                          |
+| ChatGPT For Desktop    | GPT 全系列模型                           | 电脑客户端 | [ChatGPT For Desktop 下载链接](http://chatknow.lify.vip/software/AI智慧岛_1.0.0_x64_zh-CN.msi)                  |
+| ChatGPT for Edge       | Edge 浏览器插件，全系列模型              | Edge浏览器插件 | [Microsoft Edge 插件下载](https://microsoftedge.microsoft.com/addons/detail/chatgpt中文版（中文界面、对话、写作、绘画）/lmlenkgcieicbnpobkhmpcgmamahahil) |
+
 
 ---
 
