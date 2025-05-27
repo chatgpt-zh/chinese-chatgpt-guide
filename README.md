@@ -25,7 +25,7 @@
 |------------------------|------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------|
 | 一下AI                 | GPT-4.0、GPT 4o画图、DeepSeek R1满血版、GPT o1、Claude 3.7 Sonnet、Grok、AI绘画                   | 网站      | [xsimplechat.com](https://xsimplechat.com)                                                                     |
 | Lify Chat              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、插件 | 网站      | [chat.lanjing.pro](https://chat.lanjing.pro)                                                                          |
-| ChatGPT For Desktop    | GPT 全系列模型                           | 电脑客户端 | [ChatGPT For Desktop 下载链接](http://xsimplechat.com)                  |
+| ChatGPT For Desktop    | GPT 全系列模型                           | 电脑客户端 | [ChatGPT For Desktop 下载链接](https://xsimplechat.com)                  |
 | ChatGPT for Edge       | Edge 浏览器插件，全系列模型              | Edge浏览器插件 | [Microsoft Edge 插件下载](https://chat.lanjing.pro) |
 
 
