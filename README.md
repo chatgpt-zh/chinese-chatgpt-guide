@@ -1,6 +1,6 @@
 # 国内如何使用 ChatGPT？最容易懂的 ChatGPT 介绍与教学指南
 ---
->更新时间: 2025-06-08  
+>更新时间: 2025-06-22 
 
 **这是一份全方位的指南，帮助您轻松使用 ChatGPT 中文版，无需科学上网即可体验 GPT-4 的全部功能！**  
 在本文中，您将了解如何通过推荐的镜像网站访问 ChatGPT 中文版、注册使用的具体步骤，以及常见问题的解答。
@@ -23,8 +23,8 @@
 
 | 网站名称               | 支持功能                                 | 类型      | 访问方式                                                                                                      |
 |------------------------|------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------|
-| Xsimple                 | GPT-4.0、GPT 4.5、GPT 4o画图、DeepSeek R1满血版、GPT o1、Claude 4 Sonnet、Grok-3、Gemini 2.5 Pro、AI绘画、AI PPT                   | 网站      | [xsimplechat.com](https://xsimplechat.com)                                                                     |
-| lanjing.pro              | GPT-4.0、GPT4.0 turbo、GPT o1、AI PPT、 插件 | 网站      | [chat.lanjing.pro](https://chat.lanjing.pro)                                                                          |
+| Xsimple                 | GPT-4.0、GPT 4.5、GPT o1、GPT o3、GPT 4o画图、DeepSeek R1满血版、Claude 4 Sonnet、Grok-3、Gemini 2.5 Pro、AI绘画、AI PPT、AI知识库                  | 网站      | [xsimplechat.com](https://xsimplechat.com)                                                                     |
+| lanjing.pro              | GPT-4.0、GPT4.5、GPT o1、Gemini 2.5、Claude全系列模型、DeepSeek R1满血版、Grok-3、 插件 | 网站      | [chat.lanjing.pro](https://chat.lanjing.pro)                                                                          |
 | ChatGPT For Desktop    | GPT 全系列模型                           | 电脑客户端 | [ChatGPT For Desktop 下载链接](https://xsimplechat.com)                  |
 | ChatGPT for Edge       | Edge 浏览器插件，全系列模型              | Edge浏览器插件 | [Microsoft Edge 插件下载](https://chat.lanjing.pro) |
 
