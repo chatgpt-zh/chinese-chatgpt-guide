@@ -1,6 +1,6 @@
 # 国内如何使用 ChatGPT？最容易懂的 ChatGPT 介绍与教学指南
 ---
-> 更新时间: 2025-07-26 
+> 更新时间: 2025-09-20 
 
 **这是一份全方位的指南，帮助您轻松使用 ChatGPT 中文版，无需科学上网即可体验 GPT-4 的全部功能！**  
 在本文中，您将了解如何通过推荐的镜像网站访问 ChatGPT 中文版、注册使用的具体步骤，以及常见问题的解答。
@@ -13,7 +13,7 @@
 
 - **优化中文支持**：对话更加自然，适合写作、办公和学习等多个场景。
 - **直达访问**：通过国内镜像站点访问，无需科学上网。
-- **多功能扩展**：基于 GPT-4 模型，提供翻译、问答、内容创作等多种功能。
+- **多功能扩展**：基于 GPT-5 模型，提供翻译、问答、内容创作等多种功能。
 
 ---
 
@@ -23,10 +23,10 @@
 
 | 网站名称               | 支持功能                                 | 类型      | 访问方式                                                                                                      |
 |------------------------|------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------|
-| Xsimple                 | GPT-4.0、GPT 4.5、GPT o1、GPT o3、GPT image画图、DeepSeek R1满血版、Claude 4 Sonnet、Grok-4、Gemini 2.5 Pro、AI绘画、AI PPT、AI知识库                  | 网站      | [xsimplechat.com](https://xsimplechat.com)                                                                     |
-| lanjingai.org              | GPT-4.0、GPT4.5、GPT o1、Gemini 2.5、Claude全系列模型、DeepSeek R1满血版、Grok-3、 插件 | 网站      | [chat.lanjingai.org](https://chat.lanjingai.org)                                                                          |
+| Xsimple                 | GPT-5、GPT 4.5、GPT o1、GPT o3、GPT image画图、DeepSeek R1满血版、Claude 4 Sonnet、Grok-4、Gemini 2.5 Pro、AI绘画、AI PPT、AI知识库                  | 网站      | [xsimplechat.com](https://xsimplechat.com)                                                                     |
+| lanjingai.org              | GPT-5、GPT4.5、GPT o1、Gemini 2.5、Claude全系列模型、DeepSeek R1满血版、Grok-3、 插件 | 网站      | [ai.lanjingai.org](https://ai.lanjingai.org)                                                                          |
 | ChatGPT For Desktop    | GPT 全系列模型                           | 电脑客户端 | [ChatGPT For Desktop 下载链接](https://xsimplechat.com)                  |
-| ChatGPT for Edge       | Edge 浏览器插件，全系列模型              | Edge浏览器插件 | [Microsoft Edge 插件下载](https://chat.lanjingai.org) |
+| ChatGPT for Edge       | Edge 浏览器插件，全系列模型              | Edge浏览器插件 | [Microsoft Edge 插件下载](https://ai.lanjingai.org) |
 
 
 ---
@@ -45,7 +45,7 @@
 ### ChatGPT 国际版
 - **访问**：需要科学上网，访问速度较慢。
 - **语言支持**：支持多语言（中文支持有限）。
-- **功能**：支持 GPT-4 和 GPT-3.5。
+- **功能**：支持 GPT-5 和 GPT-4。
 - **注册**：必须使用海外手机号。
 - **费用**：免费额度有限，需付费升级。
 
@@ -60,9 +60,9 @@
 
 ## 快速开始使用 ChatGPT 中文版
 
-1. **选择镜像站点**：访问推荐的镜像站点，如 chat.lify.vip。
+1. **选择镜像站点**：访问推荐的镜像站点，如 xsimplechat.com。
 2. **注册账号**：使用您的邮箱或手机号完成注册。
-3. **选择模型**：根据需要选择 GPT-4、GPT-3.5 或 GPT-o1。
+3. **选择模型**：根据需要选择 GPT-5、GPT-4 或 GPT-o1。
 4. **享受体验**：输入您的问题，获得准确和高效的回答！
 
 ---
@@ -80,8 +80,8 @@
 
 ## 常见问题（FAQ）
 
-1. **ChatGPT 中文版支持 GPT-4 吗？**  
-   是的，推荐的镜像站点均支持 GPT-4 模型。
+1. **ChatGPT 中文版支持 GPT-5 吗？**  
+   是的，推荐的镜像站点均支持 GPT-5 模型。
 
 2. **使用中文版需要付费吗？**  
    部分站点提供免费额度，但高级功能可能需要付费。
